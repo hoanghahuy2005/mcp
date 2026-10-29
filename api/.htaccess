@@ -1,0 +1,28 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP:Authorization} ^(.*)
+  RewriteRule .* - [E=HTTP_AUTHORIZATION:%1]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ index.php?uri=$1
+</IfModule>
+
+<IfModule mod_setenvif.c>
+  SetEnvIf Authorization "^Bearer "    PQ_APP_LEVEL_AUTH
+  SetEnvIf Authorization "^Signature " PQ_APP_LEVEL_AUTH
+</IfModule>
+
+AuthUserFile "/opt/lampp/htdocs/projeqtor/api/.htpasswd"
+AuthName "ProjeQtOr"
+AuthType Basic
+<IfModule mod_authz_core.c>
+  # Apache >= 2.4
+  <RequireAny>
+    Require valid-user
+    Require env PQ_APP_LEVEL_AUTH
+  </RequireAny>
+</IfModule>
+<IfModule !mod_authz_core.c>
+  # Apache 2.2 fallback : still requires valid-user for every call ;
+  require valid-user
+</IfModule>

@@ -1,0 +1,455 @@
+2026-10-28 04:47:19.510 ===== TRACE ===== [1] NEW CONNECTED USER 'admin'
+2026-10-28 10:31:40.599 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:32:38.908 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:33:05.309 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:36:10.205 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:37:14.726 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:41:29.692 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:43:32.106 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:45:22.213 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:48:32.519 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:50:29.607 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:58:33.242 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:59:03.835 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:59:27.866 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 10:59:29.526 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 11:00:28.996 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 11:03:23.112 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 11:06:58.044 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 11:08:25.022 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 11:08:28.362 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 11:17:39.574 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 16:01:01.389 ===== TRACE ===== [1] API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 16:01:18.896 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:18.905 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:18.909 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:01:18.915 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:01:18.926 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:18.931 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:18.935 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:18.940 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/tool/checkAlertToDisplay.php (29) -> require_once()
+2026-10-28 16:01:23.462 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:23.471 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:23.480 ===== TRACE ===== [1] $_REQUEST[parameter]=animationSpeedMode
+2026-10-28 16:01:23.488 ===== TRACE ===== [1] $_REQUEST[value]=Med
+2026-10-28 16:01:23.496 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:01:23.503 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:01:23.512 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:23.519 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:23.527 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:23.534 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/tool/saveUserParameter.php (27) -> require_once()
+2026-10-28 16:01:24.199 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:24.205 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:24.210 ===== TRACE ===== [1] $_REQUEST[parameter]=animationSpeedMode
+2026-10-28 16:01:24.215 ===== TRACE ===== [1] $_REQUEST[value]=Fast
+2026-10-28 16:01:24.220 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:01:24.225 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:01:24.229 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:24.236 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:24.241 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:24.245 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/tool/saveUserParameter.php (27) -> require_once()
+2026-10-28 16:01:27.130 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:27.142 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:27.151 ===== TRACE ===== [1] $_REQUEST[destinationWidth]=1658
+2026-10-28 16:01:27.161 ===== TRACE ===== [1] $_REQUEST[destinationHeight]=796
+2026-10-28 16:01:27.172 ===== TRACE ===== [1] $_REQUEST[isIE]=
+2026-10-28 16:01:27.182 ===== TRACE ===== [1] $_REQUEST[xhrPostDestination]=centerDiv
+2026-10-28 16:01:27.192 ===== TRACE ===== [1] $_REQUEST[xhrPostIsResultMessage]=false
+2026-10-28 16:01:27.203 ===== TRACE ===== [1] $_REQUEST[xhrPostValidationType]=
+2026-10-28 16:01:27.212 ===== TRACE ===== [1] $_REQUEST[xhrPostTimestamp]=1793199686849
+2026-10-28 16:01:27.222 ===== TRACE ===== [1] $_REQUEST[screenWidth]=1536
+2026-10-28 16:01:27.231 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:01:27.238 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:01:27.244 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:27.249 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:27.255 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:27.260 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/startGuide.php (31) -> require_once()
+2026-10-28 16:01:27.468 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:27.476 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:27.480 ===== TRACE ===== [1] $_REQUEST[currentScreen]=StartGuide
+2026-10-28 16:01:27.485 ===== TRACE ===== [1] $_REQUEST[objectExist]=false
+2026-10-28 16:01:27.490 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:01:27.494 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:01:27.498 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:27.505 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:27.514 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:27.521 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/menuUserScreenOrganization.php (27) -> include_once()
+2026-10-28 16:01:27.736 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:27.745 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:27.749 ===== TRACE ===== [1] $_REQUEST[item]=StartGuide
+2026-10-28 16:01:27.753 ===== TRACE ===== [1] $_REQUEST[menuFilter]=menuBarCustom
+2026-10-28 16:01:27.757 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:01:27.762 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:01:27.766 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:27.770 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:27.774 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:27.778 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/refreshMenuBarButtonFavorite.php (31) -> require_once()
+2026-10-28 16:01:27.980 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:27.986 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:27.991 ===== TRACE ===== [1] $_REQUEST[item]=StartGuide
+2026-10-28 16:01:27.994 ===== TRACE ===== [1] $_REQUEST[menuFilter]=menuBarCustom
+2026-10-28 16:01:27.999 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:01:28.003 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:01:28.007 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:28.012 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:28.016 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:28.020 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/refreshMenuBarButtonFavorite.php (31) -> require_once()
+2026-10-28 16:01:28.334 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:28.348 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:28.357 ===== TRACE ===== [1] $_REQUEST[currentScreen]=StartGuide
+2026-10-28 16:01:28.364 ===== TRACE ===== [1] $_REQUEST[objectExist]=false
+2026-10-28 16:01:28.371 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:01:28.378 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:01:28.383 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:28.389 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:28.398 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:28.405 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/menuUserScreenOrganization.php (27) -> include_once()
+2026-10-28 16:01:31.575 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:31.581 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:31.589 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:31.596 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:31.602 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:31.609 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:01:33.832 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:33.836 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:33.840 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:33.845 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:33.849 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:33.853 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:01:41.571 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:41.579 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:41.585 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:41.590 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:41.597 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:41.604 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:01:54.951 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:01:54.956 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:01:54.960 ===== TRACE ===== [1] $_REQUEST[xcurrentLocale]=en
+2026-10-28 16:01:54.965 ===== TRACE ===== [1] $_REQUEST[currentWidth]=1536
+2026-10-28 16:01:54.970 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:01:54.974 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:01:54.980 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:01:54.984 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:02:09.630 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:02:09.637 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:02:09.641 ===== TRACE ===== [1] $_REQUEST[xcurrentLocale]=en
+2026-10-28 16:02:09.644 ===== TRACE ===== [1] $_REQUEST[currentWidth]=1536
+2026-10-28 16:02:09.648 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:02:09.653 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:02:09.657 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:02:09.661 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:02:12.953 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:02:12.958 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:02:12.963 ===== TRACE ===== [1] $_REQUEST[xcurrentLocale]=en
+2026-10-28 16:02:12.968 ===== TRACE ===== [1] $_REQUEST[currentWidth]=1536
+2026-10-28 16:02:12.974 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:02:12.979 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:02:12.984 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:02:12.989 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:02:20.511 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:02:20.518 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:02:20.522 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:02:20.526 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:02:20.529 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:02:20.532 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:02:21.234 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:02:21.239 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:02:21.243 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:02:21.249 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:02:21.253 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:02:21.257 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:02:52.816 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:02:52.830 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:02:52.840 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:02:52.850 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:02:52.860 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:02:52.871 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:03:24.753 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:03:24.761 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:03:24.768 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:03:24.773 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:03:24.779 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:03:24.784 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:03:59.504 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:03:59.511 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:03:59.515 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:03:59.519 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:03:59.524 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:03:59.528 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:03:59.532 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:03:59.536 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/tool/checkAlertToDisplay.php (29) -> require_once()
+2026-10-28 16:03:59.731 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:03:59.738 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:03:59.742 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:03:59.746 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:03:59.750 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:03:59.754 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:03:59.758 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:03:59.763 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/tool/jsonNotification.php (30) -> require_once()
+2026-10-28 16:04:04.927 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:04:04.933 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:04:04.938 ===== TRACE ===== [1] $_REQUEST[parameter]=animationSpeedMode
+2026-10-28 16:04:04.943 ===== TRACE ===== [1] $_REQUEST[value]=Fast
+2026-10-28 16:04:04.949 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:04:04.954 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:04:04.958 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:04:04.964 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:04:04.976 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:04:04.980 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/tool/saveUserParameter.php (27) -> require_once()
+2026-10-28 16:04:06.016 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:04:06.020 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:04:06.025 ===== TRACE ===== [1] $_REQUEST[item]=StartGuide
+2026-10-28 16:04:06.029 ===== TRACE ===== [1] $_REQUEST[menuFilter]=menuBarCustom
+2026-10-28 16:04:06.033 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:04:06.038 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:04:06.042 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:04:06.047 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:04:06.051 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:04:06.055 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/refreshMenuBarButtonFavorite.php (31) -> require_once()
+2026-10-28 16:04:06.211 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:04:06.216 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:04:06.221 ===== TRACE ===== [1] $_REQUEST[item]=StartGuide
+2026-10-28 16:04:06.226 ===== TRACE ===== [1] $_REQUEST[menuFilter]=menuBarCustom
+2026-10-28 16:04:06.232 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:04:06.238 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:04:06.247 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:04:06.256 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:04:06.260 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:04:06.265 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/refreshMenuBarButtonFavorite.php (31) -> require_once()
+2026-10-28 16:04:06.451 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:04:06.458 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:04:06.463 ===== TRACE ===== [1] $_REQUEST[destinationWidth]=1658
+2026-10-28 16:04:06.467 ===== TRACE ===== [1] $_REQUEST[destinationHeight]=796
+2026-10-28 16:04:06.470 ===== TRACE ===== [1] $_REQUEST[isIE]=
+2026-10-28 16:04:06.474 ===== TRACE ===== [1] $_REQUEST[xhrPostDestination]=centerDiv
+2026-10-28 16:04:06.479 ===== TRACE ===== [1] $_REQUEST[xhrPostIsResultMessage]=false
+2026-10-28 16:04:06.483 ===== TRACE ===== [1] $_REQUEST[xhrPostValidationType]=
+2026-10-28 16:04:06.487 ===== TRACE ===== [1] $_REQUEST[xhrPostTimestamp]=1793199845710
+2026-10-28 16:04:06.491 ===== TRACE ===== [1] $_REQUEST[screenWidth]=1536
+2026-10-28 16:04:06.495 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:04:06.500 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:04:06.504 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:04:06.508 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:04:06.513 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:04:06.517 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/startGuide.php (31) -> require_once()
+2026-10-28 16:04:06.667 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:04:06.671 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:04:06.675 ===== TRACE ===== [1] $_REQUEST[currentScreen]=StartGuide
+2026-10-28 16:04:06.680 ===== TRACE ===== [1] $_REQUEST[objectExist]=false
+2026-10-28 16:04:06.683 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:04:06.688 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:04:06.693 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:04:06.697 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:04:06.701 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:04:06.705 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/menuUserScreenOrganization.php (27) -> include_once()
+2026-10-28 16:04:06.863 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:04:06.868 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:04:06.874 ===== TRACE ===== [1] $_REQUEST[currentScreen]=StartGuide
+2026-10-28 16:04:06.879 ===== TRACE ===== [1] $_REQUEST[objectExist]=false
+2026-10-28 16:04:06.883 ===== TRACE ===== [1] $_REQUEST[csrfToken]=b14e327b0c9022bff2ec15785d5702479b723d9acbc66180395b1e4b8972ca7f4184eb
+2026-10-28 16:04:06.888 ===== TRACE ===== [1] $_REQUEST[directAccessIndex]=
+2026-10-28 16:04:06.894 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:04:06.898 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:04:06.903 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:04:06.908 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/menuUserScreenOrganization.php (27) -> include_once()
+2026-10-28 16:04:09.346 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:04:09.351 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:04:09.356 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:04:09.361 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:04:09.365 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:04:09.370 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:41:39.339 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:41:39.346 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:41:39.350 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:41:39.353 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:41:39.356 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:41:39.359 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:41:43.695 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:41:43.700 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:41:43.704 ===== TRACE ===== [1] $_REQUEST[xcurrentLocale]=en
+2026-10-28 16:41:43.708 ===== TRACE ===== [1] $_REQUEST[currentWidth]=1536
+2026-10-28 16:41:43.712 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:41:43.715 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:41:43.718 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:41:43.721 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:42:13.890 ===== TRACE ===== [1] 'user' was connected through API and should not reach Application for same session. May be a hacking attempt from IP 172.17.0.1
+2026-10-28 16:42:13.896 ===== TRACE ===== [1] IP CLient=172.17.0.1
+2026-10-28 16:42:13.900 ===== TRACE ===== [1] $_REQUEST[xcurrentLocale]=en
+2026-10-28 16:42:13.904 ===== TRACE ===== [1] $_REQUEST[currentWidth]=1536
+2026-10-28 16:42:13.907 ***** ERROR ***** [V13.1.1] [1] EXCEPTION *****
+2026-10-28 16:42:13.912 ***** ERROR ***** [V13.1.1] [1] on file '/opt/lampp/htdocs/projeqtor/tool/projeqtor.php' at line (225)
+2026-10-28 16:42:13.915 ***** ERROR ***** [V13.1.1] [1] cause = Invalid access attempt
+2026-10-28 16:42:13.918 ***** ERROR ***** [V13.1.1] [1]    => #0 /opt/lampp/htdocs/projeqtor/view/main.php (38) -> require_once()
+2026-10-28 16:43:17.691 ===== TRACE ===== [1] NEW CONNECTED USER 'admin'
+2026-10-28 16:55:41.461 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 16:55:43.331 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:00:47.914 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:01:36.382 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:03:57.594 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:09:10.136 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:11:57.541 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:12:38.376 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:12:39.279 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:12:39.282 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:12:39.286 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:12:39.288 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:12:39.292 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:12:39.294 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:12:39.297 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:12:39.345 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:12:39.348 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:12:39.351 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:12:39.354 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:12:39.357 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:12:39.360 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:12:39.362 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:12:39.367 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:12:39.370 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:12:39.373 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:12:39.376 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:12:39.378 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:12:39.381 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:12:39.383 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:12:39.388 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:12:39.391 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:12:39.394 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:12:39.398 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:12:39.401 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:12:39.405 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:12:39.410 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:12:39.417 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:12:39.422 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:12:39.426 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:12:39.430 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:12:39.436 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:12:39.441 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:12:39.445 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:12:39.705 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:12:40.185 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:12:41.863 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:12:51.866 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:12:53.904 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:12:54.752 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:17:58.740 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:18:37.824 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:18:38.003 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:18:38.245 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:18:38.807 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:18:38.811 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:18:38.816 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:18:38.821 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:18:38.826 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:18:38.830 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:18:38.835 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:18:38.843 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:18:38.847 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:18:38.852 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:18:38.855 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:18:38.860 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:18:38.864 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:18:38.869 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:18:38.875 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:18:38.879 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:18:38.884 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:18:38.888 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:18:38.892 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:18:38.897 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:18:38.900 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:18:38.907 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:18:38.911 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:18:38.917 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:18:38.967 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:18:38.972 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:18:38.977 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:18:38.981 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:18:38.989 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:18:38.998 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:18:39.004 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:18:39.010 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:18:39.016 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:18:39.021 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:18:39.026 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:18:48.116 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:18:57.467 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:30:44.083 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:31:36.254 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:31:37.666 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:31:38.766 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:31:46.304 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:33:24.866 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:33:43.550 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:36:32.855 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:36:34.116 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:36:35.226 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:36:43.265 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:39:32.649 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:39:34.040 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:39:35.055 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:47:39.530 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:47:40.775 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:47:41.795 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:47:47.998 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:51:06.888 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:51:08.134 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:51:09.306 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:54:13.352 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:55:24.151 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:55:29.662 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:55:29.772 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:55:30.357 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:55:30.361 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:55:30.365 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:55:30.369 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:55:30.373 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:55:30.376 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:55:30.381 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:55:30.390 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:55:30.395 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:55:30.400 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:55:30.405 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:55:30.409 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:55:30.414 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:55:30.418 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:55:30.424 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:55:30.429 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:55:30.433 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:55:30.437 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:55:30.441 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:55:30.446 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:55:30.452 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:55:30.460 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:55:30.469 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:55:30.476 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:55:30.482 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:55:30.488 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:55:30.496 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:55:30.504 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:55:30.515 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-28 18:55:30.521 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-28 18:55:30.527 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-28 18:55:30.532 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-28 18:55:30.535 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-28 18:55:30.539 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-28 18:55:30.544 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-28 18:55:39.752 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:55:41.667 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:55:43.619 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:55:51.620 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:55:59.810 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:58:28.862 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:58:29.981 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:58:30.905 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 18:58:36.747 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:01:30.981 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:01:41.603 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:01:47.862 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:03:16.550 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:03:37.479 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:03:38.575 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:03:39.880 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:06:03.053 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:06:04.238 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:06:05.943 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:10:53.930 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:10:55.680 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-28 19:10:57.456 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy

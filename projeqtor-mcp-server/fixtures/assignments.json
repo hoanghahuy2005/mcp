@@ -1,0 +1,5 @@
+[
+  { "id": "201", "idProject": "1", "refType": "Activity", "refId": "101", "idResource": "11", "plannedWork": "2.5", "realWork": "0", "leftWork": "" },
+  { "id": "202", "idProject": "1", "refType": "Activity", "refId": "101", "idResource": "12", "plannedWork": "2", "realWork": null, "leftWork": "2" },
+  { "id": "203", "idProject": "2", "refType": "Activity", "refId": "103", "idResource": "11", "plannedWork": "1" }
+]

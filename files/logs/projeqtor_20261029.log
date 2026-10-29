@@ -1,0 +1,131 @@
+2026-10-29 03:03:49.524 ===== TRACE ===== [1] NEW CONNECTED USER 'admin'
+2026-10-29 03:06:17.538 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:06:23.004 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:06:23.042 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:06:23.863 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:06:23.867 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:06:23.871 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:06:23.875 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:06:23.879 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:06:23.883 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:06:23.888 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:06:23.901 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:06:23.905 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:06:23.910 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:06:23.914 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:06:23.918 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:06:23.922 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:06:23.925 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:06:23.931 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:06:23.935 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:06:23.940 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:06:23.944 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:06:23.948 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:06:23.952 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:06:23.956 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:06:23.962 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:06:23.966 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:06:23.970 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:06:23.974 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:06:23.977 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:06:23.982 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:06:23.986 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:06:23.992 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:06:23.996 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:06:24.000 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:06:24.004 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:06:24.008 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:06:24.012 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:06:24.016 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:06:33.528 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:06:35.004 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:06:36.984 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:19:30.294 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:19:31.622 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:19:33.006 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:19:33.011 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:19:33.016 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:19:33.020 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:19:33.024 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:19:33.029 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:19:33.032 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:19:33.047 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:19:33.051 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:19:33.055 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:19:33.060 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:19:33.064 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:19:33.068 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:19:33.072 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:19:33.079 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:19:33.083 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:19:33.088 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:19:33.094 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:19:33.098 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:19:33.105 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:19:33.111 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:19:33.117 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:19:33.122 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:19:33.126 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:19:33.129 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:19:33.133 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:19:33.139 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:19:33.143 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:19:33.150 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:19:33.154 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:19:33.158 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:19:33.162 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:19:33.166 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:19:33.171 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:19:33.175 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:19:33.491 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:19:50.564 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:20:07.886 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:20:25.465 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:20:27.319 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:20:28.969 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:24:04.019 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:25:17.614 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:25:19.131 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:25:19.135 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:25:19.139 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:25:19.145 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:25:19.149 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:25:19.153 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:25:19.156 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:25:19.168 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:25:19.172 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:25:19.177 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:25:19.180 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:25:19.184 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:25:19.188 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:25:19.193 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:25:19.198 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:25:19.203 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:25:19.207 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:25:19.210 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:25:19.214 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:25:19.220 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+ line 338 calling jsonDumpObj()
+2026-10-29 03:25:19.220 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:25:19.223 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:25:19.227 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:25:19.231 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:25:19.235 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:25:19.241 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:25:19.245 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:25:19.251 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:25:19.260 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:25:19.268 ***** ERROR ***** [V13.1.1] [1] Impossible to load class StatusMandatoryNote<br/>  => Not found in ../model/custom/StatusMandatoryNote.php <br/>  => Not found in ../model/StatusMandatoryNote.php <br/>  => Not found in ../model/persistence/StatusMandatoryNote.php <br/>
+2026-10-29 03:25:19.273 ***** ERROR ***** [V13.1.1] [1]  === Trace Stack for last error ===
+2026-10-29 03:25:19.279 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/projeqtor.php at line 1919 calling debugPrintTraceStack()
+2026-10-29 03:25:19.283 ***** ERROR ***** [V13.1.1] [1]  => calling projeqtorAutoload()
+2026-10-29 03:25:19.288 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/tool/jsonFunctions.php at line 524 calling property_exists()
+2026-10-29 03:25:19.293 ***** ERROR ***** [V13.1.1] [1]  => /opt/lampp/htdocs/projeqtor/api/index.php at line 338 calling jsonDumpObj()
+2026-10-29 03:25:19.298 ***** ERROR ***** [V13.1.1] [1]  ===
+2026-10-29 03:25:31.072 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:25:33.776 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:25:36.016 ===== TRACE ===== API : mode=POST user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:41:55.430 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:42:42.015 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:42:49.135 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy
+2026-10-29 03:44:58.216 ===== TRACE ===== API : mode=GET user=admin, id=1, profile=1, authMethod=legacy

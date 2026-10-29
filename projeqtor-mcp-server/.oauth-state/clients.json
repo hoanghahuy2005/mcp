@@ -1,0 +1,1 @@
+[{"clientId":"https://chatgpt.com/oauth/client.json","clientName":"ChatGPT","redirectUris":["https://chatgpt.com/connector_platform_oauth_redirect"],"allowedScopes":["mcp:read","mcp:write"],"allowedResources":["https://sheet-handoff-unroll.ngrok-free.dev/mcp"]}]

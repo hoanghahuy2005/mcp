@@ -1,0 +1,5 @@
+[
+  { "id": "101", "name": "Synthetic shared activity", "description": "Mock fixture only.", "idProject": "1", "idStatus": "1", "idResource": "11", "idActivityType": "1", "creationDate": "2026-10-22", "plannedWork": "4.5", "realWork": "0", "leftWork": "" },
+  { "id": "102", "name": "Synthetic second activity", "idProject": "1", "idStatus": "1", "plannedWork": null },
+  { "id": "103", "name": "Synthetic other project", "idProject": "2", "idStatus": "2" }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "projeqtor-mcp-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.15.0"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node --env-file-if-exists=.env dist/index.js",
+    "start:stdio": "node --env-file-if-exists=.env dist/index.js --stdio",
+    "test:unit": "node --test test/unit/*.test.mjs",
+    "test": "npm run build && npm run test:unit",
+    "smoke": "node scripts/smoke.mjs",
+    "test:integration": "node scripts/verify.mjs --integration-only",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/node": "2.1.1",
+    "@modelcontextprotocol/server": "2.3.1",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/client": "2.3.1",
+    "@modelcontextprotocol/inspector": "2.12.0",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}

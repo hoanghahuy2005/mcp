@@ -1,0 +1,4 @@
+# Start the HTTP server separately. Its client process must have the same token.
+[mcp_servers.projeqtor_http]
+url = "http://127.0.0.1:8787/mcp"
+bearer_token_env_var = "MCP_BEARER_TOKEN"

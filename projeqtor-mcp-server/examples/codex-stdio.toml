@@ -1,0 +1,6 @@
+# Copy into the MCP configuration you use; paths refer to this workspace.
+[mcp_servers.projeqtor]
+command = "node"
+args = ["D:/HoangPc/Study/Subject/QLDA/OpenSrc/projeqtorV13.1.1/projeqtor/projeqtor-mcp-server/dist/index.js", "--stdio"]
+cwd = "D:/HoangPc/Study/Subject/QLDA/OpenSrc/projeqtorV13.1.1/projeqtor/projeqtor-mcp-server"
+env = { PROJEQTOR_MODE = "mock", ENABLE_WRITE = "false" }
